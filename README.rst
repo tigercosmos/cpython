@@ -48,7 +48,7 @@ Installable Python kits, and information about using Python, are available at
 Build Instructions
 ------------------
 
-On Unix, Linux, BSD, macOS, and Cygwin::
+On Unix, Linux, Debian, Ubuntu, FreeBSD, BSD, macOS, and Cygwin::
 
     ./configure
     make
